@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<path>
+  <data>data/Player/player.x</data>
+  <data>data/Player/playershadow.x</data>
+  <data>data/Player/teleport.x</data>
+  <data>data/Player/attack.x</data>
+  <data>data/Player/area.x</data>
+  <data>data/Enemy/enemy.x</data>
+  <data>data/Enemy/enemy_shot.x</data>
+  <data>data/Enemy/enemy_flash.x</data>
+  <data>data/Enemy/enemy_bullet.x</data>
+  <data>data/Enemy/enemy_flash_area.x</data>
+  <data>data/Gimmick/block.x</data>
+  <data>data/Gimmick/block2.x</data>
+  <data>data/Gimmick/fence.x</data>
+  <data>data/Gimmick/fencecol.x</data>
+  <data>data/Gimmick/goal.x</data>
+  <data>data/Gimmick/banshadow.x</data>
+  <data>data/Gimmick/switch.x</data>
+  <data>data/Gimmick/switch2.x</data>
+  <data>data/Gimmick/shadow.x</data>
+  <data>data/Gimmick/shadow2.x</data>
+  <data>data/Gimmick/trap.x</data>
+  <data>data/Gimmick/wall.x</data>
+  <data>data/Gimmick/cross.x</data>
+  <data>data/Gimmick/crosscol.x</data>
+  <data>data/Map/map0.x</data>
+  <data>data/Map/map0col.x</data>
+  <data>data/Map/map1.x</data>
+  <data>data/Map/map1col.x</data>
+  <data>data/Map/map2.x</data>
+  <data>data/Map/map2col.x</data>
+  <data>data/Map/map3.x</data>
+  <data>data/Map/map3col.x</data>
+  <data>data/Map/map4.x</data>
+  <data>data/Map/map4col.x</data>
+</path>

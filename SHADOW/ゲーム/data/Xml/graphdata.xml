@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<path>
+  <data>data/Player/life.png</data>
+  <data>data/Player/coin.png</data>
+  <data>data/Image/coin1.png</data>
+  <data>data/Image/coin2.png</data>
+  <data>data/Image/coin3.png</data>
+  <data>data/Image/BgClear.png</data>
+  <data>data/Image/BgGameOver.png</data>
+  <data>data/Image/title.png</data>
+  <data>data/Image/description.png</data>
+  <data>data/Image/description2.png</data>
+  <data>data/Player/areaenergy.png</data>
+  <data>data/Player/areaenergy2.png</data>
+  <data>data/Player/energy.png</data>
+  <data>data/Player/consumption.png</data>
+  <data>data/Enemy/discovery.png</data>
+  <data>data/Image/text.png</data>
+  <data>data/Image/text2.png</data>
+  <data>data/Image/tutorial1.png</data>
+  <data>data/Image/tutorial2.png</data>
+  <data>data/Image/tutorial3.png</data>
+  <data>data/Image/tutorial4.png</data>
+  <data>data/Image/tutorial5.png</data>
+  <data>data/Image/tutorial6.png</data>
+  <data>data/Image/tutorial7.png</data>
+  <data>data/Image/tutorial8.png</data>
+  <data>data/Image/tutorial9.png</data>
+  <data>data/Image/tutorial10.png</data>
+  <data>data/Image/tutorial11.png</data>
+  <data>data/Image/tutorial12.png</data>
+  <data>data/Image/tutorial13.png</data>
+  <data>data/Image/tutorial14.png</data>
+  <data>data/Image/tutorial15.png</data>
+  <data>data/Image/tutorial16.png</data>
+  <data>data/Image/tutorial17.png</data>
+  <data>data/Image/tutorial18.png</data>
+  <data>data/Image/tutorial19.png</data>
+  <data>data/Image/tutorial20.png</data>
+  <data>data/Image/tutorial21.png</data>
+  <data>data/Image/tutorial22.png</data>
+  <data>data/Image/tutorial23.png</data>
+</path>
